@@ -7,7 +7,7 @@
   Building intelligence into systems · Practical, intelligent, and scalable applications
 </p>
 
-[![Live Demo](https://img.shields.io/badge/Demo-Live%20Website-2563eb?style=for-the-badge&logo=vercel)](https://mishesh.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20Website-2563eb?style=for-the-badge&logo=vercel)](https://misheshpatel.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mishesh-patel)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Mishesh06)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail)](mailto:misheshpatel2414@gmail.com)
@@ -24,7 +24,7 @@
 
 A performance-focused, Swiss editorial-style interactive developer portfolio inspired by clean architectural grids, tactile micro-interactions, and high-impact case studies.
 
-- 🌐 **Live Website**: [https://mishesh.vercel.app](https://mishesh.vercel.app)
+- 🌐 **Live Website**: [https://misheshpatel.vercel.app](https://misheshpatel.vercel.app)
 - 📄 **Resume**: Available directly on the site or at [`/Mishesh_Patel_Resume.pdf`](./public/Mishesh_Patel_Resume.pdf)
 
 ---
@@ -44,9 +44,9 @@ A performance-focused, Swiss editorial-style interactive developer portfolio ins
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Career Gap Analyzer](https://mishesh.vercel.app/work/career-gap-analyzer)** | AI-assisted diagnosis & personalized reskilling path builder. | Python, PyTorch, FastAPI, React |
-| **[Branded Shortlink & Bio Hub](https://mishesh.vercel.app/work/branded-shortlink-bio-hub)** | High-throughput analytics engine & custom link routing platform. | TypeScript, Redis, Node.js, Next.js |
-| **[Mini ERP & CRM Portal](https://mishesh.vercel.app/work/mini-erp-crm-portal)** | Multi-tenant operational command center with real-time sync. | React, PostgreSQL, Docker, Tailwind |
+| **[Career Gap Analyzer](https://misheshpatel.vercel.app/work/career-gap-analyzer)** | AI-assisted diagnosis & personalized reskilling path builder. | Python, PyTorch, FastAPI, React |
+| **[Branded Shortlink & Bio Hub](https://misheshpatel.vercel.app/work/branded-shortlink-bio-hub)** | High-throughput analytics engine & custom link routing platform. | TypeScript, Redis, Node.js, Next.js |
+| **[Mini ERP & CRM Portal](https://misheshpatel.vercel.app/work/mini-erp-crm-portal)** | Multi-tenant operational command center with real-time sync. | React, PostgreSQL, Docker, Tailwind |
 
 ---
 
@@ -89,7 +89,7 @@ To run this portfolio locally on your machine:
 
 ## 📬 Contact & Connect
 
-- **Portfolio**: [https://mishesh.vercel.app](https://mishesh.vercel.app)
+- **Portfolio**: [https://misheshpatel.vercel.app](https://misheshpatel.vercel.app)
 - **Email**: [misheshpatel2414@gmail.com](mailto:misheshpatel2414@gmail.com)
 - **LinkedIn**: [linkedin.com/in/mishesh-patel](https://www.linkedin.com/in/mishesh-patel)
 - **GitHub**: [github.com/Mishesh06](https://github.com/Mishesh06)
