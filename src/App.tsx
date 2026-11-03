@@ -1,4 +1,5 @@
 import { BrowserRouter, Routes, Route } from 'react-router'
+import { Analytics } from '@vercel/analytics/react'
 import MascotLayer from '@/components/mascot/MascotLayer'
 import SoundToggle from '@/components/ui/SoundToggle'
 import HomePage from '@/pages/HomePage'
@@ -15,6 +16,7 @@ import NotFoundPage from '@/pages/NotFoundPage'
 export default function App() {
   return (
     <BrowserRouter>
+      <Analytics />
       <MascotLayer />
       <Routes>
         <Route path="/" element={<HomePage />} />
