@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Signature Comic Halftone/Ink Drop-Shadow -->
+  <rect x="6" y="6" width="52" height="52" rx="14" fill="#0b0b0c"/>
+  <!-- Royal Blue (#2261e9) Surface with Crisp Ink Border -->
+  <rect x="2" y="2" width="52" height="52" rx="14" fill="#2261e9" stroke="#0b0b0c" stroke-width="1.8"/>
+  <!-- Swiss Bold 'M' in Paper White (#fbfbf8) -->
+  <path d="M11 43V16h8.5l8.5 14.5L36.5 16H45v27h-8V26.5L30.2 38.5h-4.4L19 26.5V43z" fill="#fbfbf8"/>
+</svg>
