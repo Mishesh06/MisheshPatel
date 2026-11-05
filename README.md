@@ -9,7 +9,7 @@
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live%20Website-2563eb?style=for-the-badge&logo=vercel)](https://misheshpatel.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mishesh-patel)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Mishesh06)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/MisheshPatel09)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail)](mailto:misheshpatel2414@gmail.com)
 
 <br/>
@@ -66,7 +66,7 @@ To run this portfolio locally on your machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Mishesh06/MisheshPatel.git
+   git clone https://github.com/MisheshPatel09/MisheshPatel.git
    cd MisheshPatel
    ```
 
@@ -92,5 +92,5 @@ To run this portfolio locally on your machine:
 - **Portfolio**: [https://misheshpatel.vercel.app](https://misheshpatel.vercel.app)
 - **Email**: [misheshpatel2414@gmail.com](mailto:misheshpatel2414@gmail.com)
 - **LinkedIn**: [linkedin.com/in/mishesh-patel](https://www.linkedin.com/in/mishesh-patel)
-- **GitHub**: [github.com/Mishesh06](https://github.com/Mishesh06)
+- **GitHub**: [github.com/MisheshPatel09](https://github.com/MisheshPatel09)
 

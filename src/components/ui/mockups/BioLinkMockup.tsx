@@ -51,7 +51,7 @@ export default function BioLinkMockup({ currentSlide = 0 }: BioLinkMockupProps) 
                 </div>
                 <div className="p-3 grid grid-cols-12 items-center font-mono">
                   <span className="col-span-4 font-bold text-blue">msh.sh/github</span>
-                  <span className="col-span-5 text-ink/70 truncate">github.com/Mishesh06</span>
+                  <span className="col-span-5 text-ink/70 truncate">github.com/MisheshPatel09</span>
                   <span className="col-span-3 text-right text-emerald-600 font-bold">9.2ms</span>
                 </div>
                 <div className="p-3 grid grid-cols-12 items-center font-mono">
